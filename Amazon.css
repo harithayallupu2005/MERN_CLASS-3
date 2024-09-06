@@ -1,0 +1,26 @@
+.btn-1{
+    background-color: white;
+    color:black;
+    cursor:pointer;
+    height:40px;
+    width: 80px;
+    border:2px solid;
+    border-radius: 20px;
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+    color:white;
+    font-size: bold;
+}
+.btn-2{
+    background-color: orange;
+    color: black;
+    height: 40px;
+    width: 80px;
+    border: none;
+    border-radius: 20px;
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
